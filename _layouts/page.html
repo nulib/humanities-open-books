@@ -1,0 +1,30 @@
+---
+layout: default
+---
+<div id="news-story">
+		<h2>{{ page.title }}</h2>
+		<h3>{{ page.tagline }}</h3>
+		<div class="wrap">
+				<!--
+				<div id="credit">
+						<div class="story-date">September 18, 2015</div>
+						<div class="story-byline">John Smith</div>
+				</div>
+			-->
+		</div>
+		<div id="story-floater">
+			{% if page.quote %}
+				<figure class="quote">
+						<p><span></span>{{ page.quote }}”</p>
+						<figcaption>
+								<p>{{ page.quote_name }}<br />
+								{{ page.quote_title }}</p>
+						</figcaption>
+				</figure>
+			{% endif %}
+				<div id="story-callout">
+						Lorem ipsum dolor sit amet, in ante voluptate dictum sit ullamcorper.
+				</div>
+		</div>
+		{{ content }}
+</div>

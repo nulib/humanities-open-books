@@ -1,0 +1,78 @@
+---
+layout: default
+permalink: /african-studies/
+body_class: "standard-page"
+title: "African Studies"
+sidebar: true
+nav_title: "Browse"
+---
+{% comment %}
+=======================
+The following part extracts all the tags from your posts and sort tags, so that you do not need to manually collect your tags to a place.
+=======================
+{% endcomment %}
+{% assign rawtags = "" %}
+{% assign books = site.books | where:"subject","African Studies" %}
+{% for book in books %}
+	{% assign ttags = book.subfield | join:'|' | append:'|' %}
+	{% assign rawtags = rawtags | append:ttags %}
+{% endfor %}
+{% assign rawtags = rawtags | split:'|' | sort %}
+
+{% comment %}
+=======================
+The following part removes dulpicated tags and invalid tags like blank tag.
+=======================
+{% endcomment %}
+{% assign tags = "" %}
+{% for tag in rawtags %}
+	{% if tag != "" %}
+		{% if tags == "" %}
+			{% assign tags = tag | split:'|' %}
+		{% endif %}
+		{% unless tags contains tag %}
+			{% assign tags = tags | join:'|' | append:'|' | append:tag | split:'|' %}
+		{% endunless %}
+	{% endif %}
+{% endfor %}
+
+{% comment %}
+=======================
+The purpose of this snippet is to list all your posts posted with a certain tag.
+=======================
+{% endcomment %}
+
+<h2>{{ page.title }}</h2>
+<hr>
+
+{% for tag in tags %}
+
+<h3 id="{{ tag | slugify }}">{{ tag }}</h3>
+
+{% assign sorted = site.books | sort: 'date' | reverse %}
+	{% for book in sorted %}
+	{% if book.subfield contains tag %}
+
+	<article class="people-medium">
+		<div class="people-wrap">
+			<div class="people-image">
+	      <a href="{{ book.url }}">
+				<img alt="Name" src="/assets/images/{{ book.thumbnail }}"/>
+	      </a>
+			</div>
+			<div class="people-content">
+				<h4><a href="{{ book.url }}">{{ book.title }}</a></h4>
+				<ul>
+					<li>By {{ book.author }}</li>
+					<li>Published: {{ book.date | date: '%Y' }}</li>
+					<li>ISBN: {{ book.isbn }}</li>
+				</ul>
+			</div>
+		</div>
+		<p>{{ book.description }} <a class="link" href="{{ book.url }}">View Book Details</a></p>
+	</article>
+
+	{% endif %}
+	{% endfor %}
+
+{% endfor %}

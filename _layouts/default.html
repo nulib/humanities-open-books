@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en">
+  {% include head.html %}
+  <body class="{{ page.body_class }}">
+    <a id="top"></a>
+    <a href="#main-content" class="screen-reader-shortcut">Skip to main content</a>
+    <!--[if lt IE 9]>
+    <div id="ie">
+        <p><img src="https://common.northwestern.edu/v8/css/images/icons/ie-warning.png" alt="Warning icon" /> Your browser is <strong>out-of-date</strong> and has known <strong>security flaws</strong>. We recommend you update your browser: <a href="http://www.google.com/chrome/" target="_blank">Chrome</a> - <a href="https://www.mozilla.org/en-US/firefox/new/" target="_blank">Firefox</a> - <a href="http://windows.microsoft.com/en-us/internet-explorer/download-ie" target="_blank">Internet Explorer</a> - <a href="https://www.apple.com/safari/" target="_blank">Safari</a>.</p>
+    </div>
+    <![endif]-->
+    {% include header/header.html %}
+    {% include nav.html %}
+
+
+    {% if page.hero_image %}
+    <div class="section hero contain-1440">
+    <div class="hero-image" style="background: url('{{ page.hero_image }}') no-repeat center / cover">
+    </div>
+    </div>
+    {% endif %}
+
+
+    <div id="page">
+      {% if page.sidebar == true %}
+      {% include sidebar.html %}
+      {% endif %}
+      <main id="main-content" class="content">
+        {{ content }}
+      </main>
+    </div>
+    {% include footer/footer.html %}
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <!--<script src="/assets/js/scripts.js" type="text/javascript"></script>-->
+    <script src="https://common.northwestern.edu/dept/2.0/scripts.js" type="text/javascript"></script>
+  </body>
+</html>

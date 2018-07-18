@@ -1,0 +1,32 @@
+---
+layout: default
+---
+{% include hero.html %}
+{% include section-top.html %}
+<div class="section">
+  <div class="section-top contain-970">
+    <h3>Browse Titles</h3>
+  </div>
+    <div class="photo-feature-3-across">
+      {% for book in site.books %}
+        <article class="photo-feature">
+            <a href="{{ book.url }}">
+                <div class="front">
+                    <img alt="{{ book.title }}" src="/assets/images/{{ book.thumbnail }}"/>
+                    <div class="text-over-image">
+                        <h4>{{ book.title }}</h4>
+                        <p class="link">View Details</p>
+                    </div>
+                </div>
+                <div class="back">
+                    <div class="back-text">
+                        <h4>{{ book.title }}</h4>
+                        <p>{{ book.description | truncatewords: 25 }}</p>
+                        <p class="link">View Details</p>
+                    </div>
+                </div>
+            </a>
+        </article>
+      {% endfor %}
+    </div>
+</div>

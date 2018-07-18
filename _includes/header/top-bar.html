@@ -1,0 +1,19 @@
+<div id="top-bar">
+    <div class="contain-1120">
+        <div id="left">
+            <div id="northwestern">
+                <a href="http://www.northwestern.edu/" title="Northwestern University Home"><span class="hide-label">Northwestern University</span></a>
+            </div>
+            {% if site.parent_unit %}
+            <div id="parent-unit">
+                <a href="{{ site.parent_unit_url }}">{{ site.parent_unit }}</a>
+            </div>
+            {% endif %}
+        </div>
+        <div id="global-links" aria-label="global links navigation">
+            <ul>
+                <li><a href="www.library.northwestern.edu">Libraries</a></li>
+            </ul>
+        </div>
+    </div>
+</div>

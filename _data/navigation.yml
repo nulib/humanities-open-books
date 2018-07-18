@@ -1,0 +1,9 @@
+main:
+  - title: "About"
+    url: /about/
+  - title: "African Studies"
+    url: /african-studies/
+  - title: "Literary Criticism"
+    url: /literary-criticism/
+  - title: "Philosophy"
+    url: /philosophy/

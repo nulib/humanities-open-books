@@ -1,0 +1,15 @@
+<div id="mobile-links">
+  <a href="#mobile-nav" class="mobile-link mobile-nav-link"><span class="hide-label">Menu</span></a>
+  <nav id="mobile-nav" aria-label="mobile menu">
+      <ul>
+        {% for link in site.data.navigation.main %}
+          {% if link.url contains 'http' %}
+            {% assign domain = '' %}
+          {% else %}
+            {% assign domain = site.url | append: site.baseurl %}
+          {% endif %}
+          <li tabindex="0"><a href="{{ link.url }}" {% if link.description %}title="{{ link.description }}"{% endif %}>{{ link.title }}</a></li>
+          {% endfor %}
+      </ul>
+  </nav>
+</div>

@@ -1,0 +1,24 @@
+---
+layout: default
+---
+<div class="section large-feature">
+	<!-- note: no section top -->
+    <h3>{{ page.subject }}</h3>
+      <div class="large-feature-inner">
+      	<div class="content-side">
+          <h4>{{ page.title }}</h4>
+            <img alt="" src="/assets/images/{{ page.cover }}"/>
+              <div class="text">
+                <p>{{ page.description }}</p>
+              </div>
+            </div>
+        <div class="right-side">
+			<h4>Details</h4>
+        <p>By {{ page.author }}</p>
+						<p style="font-weight:bold">Published: {{ page.date | date: '%Y' }}</p>
+						<p style="font-weight:bold">ISBN: {{ page.isbn }}</p>
+						<a class="button" target="_blank" href="https://arch.library.northwestern.edu/">Download E-book</a>
+						<a class="button" target="_blank" href="http://www.nupress.northwestern.edu/">Order Print Copy</a>
+        </div>
+      </div>
+</div>

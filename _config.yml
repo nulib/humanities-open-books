@@ -1,0 +1,70 @@
+# Site settings
+title              : "Humanities Open Books"
+parent_unit        : "Northwestern University Press"
+parent_unit_url    : "http://nupress.northwestern.edu"
+description        : ""
+publisher          : "Northwestern University Press"
+rights             : "All Rights Reserved"
+license            : "None"
+url                : "localhost:4000"
+baseurl            :
+encoding           : utf-8
+google_analytics   : ""
+
+
+# Editorial
+editors:
+  name             : "Northwestern University Press"
+  avatar           : ""
+  bio              : ""
+  street_address   : "629 Noyes St. Evanston, IL 60208"
+  town_zip         : "Evanston, IL 60208"
+  email            : "nupress@northwestern.edu"
+  phone            : "847-491-2046"
+  uri              : "http://nupress.northwestern.edu"
+  home             : "http://www.nupress.northwestern.edu/"
+  facebook         : "https://www.facebook.com/northwesternup"
+  twitter          : "https://twitter.com/NorthwesternUP"
+  youtube          : "http://www.youtube.com/user/OURNU"
+  instagram        : "https://instagram.com/nupress/"
+  tumblr           : "http://northwesternup.tumblr.com/"
+
+# Reading file
+include:
+exclude:
+keep_files:
+encoding: "utf-8"
+markdown_ext: "md"
+
+# Conversion
+markdown: kramdown
+highlighter: rouge
+
+# Sass/SCSS
+sass:
+  sass_dir: _sass
+  style: compressed
+
+# Collections
+collections:
+  pages:
+    output: true
+    permalink: /:path/
+  books:
+    output: true
+    permalink: /:collection/:title/
+
+# Defaults
+defaults:
+  -
+    scope:
+      path: ""
+      type: "books"
+    values:
+      format: "Book"
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      format: "Page"
