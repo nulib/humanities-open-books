@@ -1,6 +1,4 @@
 ---
-layout: book
-body_class: "landing-page"
 title: "Laughing and Crying: A Study of the Limits of Human Behavior"
 author: "James Spencer Churchill and Marjorie Grene"
 subject: "Philosophy"

@@ -1,6 +1,4 @@
 ---
-layout: book
-body_class: "standard-page"
 title: "On Emotional Presentation"
 author: "J.N. Findlay"
 subject: "Philosophy"

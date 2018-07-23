@@ -1,15 +1,17 @@
 ---
-layout: book
-body_class: "landing-page"
-title: "D.H. Lawrence: The Failure and Triumph of Art"
-subject: "Literary Criticism"
-subfield: "English Literature"
+title: "D.H. Lawrence"
+subtitle: "The Failure and Triumph of Art"
+subject: "Literary Criticism & Collections"
+subfield: "England"
+era: "20th Century"
 author: "Eliseo Vivas"
+author_bio: "ELISEO VIVAS (1901 - 1993) was a notable aesthetician of the twentieth century; his book Creation and Discovery remains a standard of aesthetic theory. He earned a Ph. D. in philosophy from the University of Wisconsin in 1935 and was awarded a Guggenheim fellowship in 1939. Vivas taught at several universities, including Northwestern University, where he was the John Evans Professor of Moral and Intellectual Philosophy."
 date: 1988-11-05
-isbn: "9780810139640"
+e_isbn: "978-0-8101-3954-1"
+p_isbn: "978-0-8101-3953-4"
 cover: dh-2.png
 thumbnail: dh-1.png
 ebook:
 print:
-description: "THIS STUDY is not concerned with Lawrence the man. His life has been thoroughly examined by a large number of biographers, friendly and unfriendly; he has been psychoanalyzed, criticized, evaluated, loved in public posthumously; he has been worshipped from a distance as the lovable angel that at times he was, and he has been despised as the demon that he also was. His every move has been charted, his reading scrutinized, his formidable battles with his wife recorded, and his novels have been corrected by checking them against the facts he used as matter for them. We know he cooked, trimmed hats for Frieda, built chicken coops, baked bread in old-fashioned ovens and fell into sadistic tantrums; and we also know that he could be tender after his explosions. Sometimes the same event has been recorded by several hands—the “last supper” episode at the Café Royal, for instance."
+description: "In D. H. Lawrence, Eliseo Vivas examines the aesthetic triumphs and failures of Lawrence's major works through a literary device that he coins the constitutive symbol. Understanding how Lawrence uses the constitutive symbol provides new insight into his world views. Vivas covers a wide range of Lawrence's work, including Aaron's Rod, Kangaroo, The Plumed Serpent, Lady Chatterley's Lover, Sons and Lovers, The Rainbow, and Women in Love. Vivas was one of the first scholars to use psychological criticism to read Lawrence's works; Vivas&#39;s and his particularly fresh reading of Lawrence's novels continue to make this a significant literary-critical study."
 ---

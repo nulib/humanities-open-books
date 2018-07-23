@@ -1,6 +1,4 @@
 ---
-layout: book
-body_class: "landing-page"
 title: "Printed Writings of George W. Russell (AE): A Bibliography"
 subject: "Literary Criticism"
 subfield: "Mysticism"

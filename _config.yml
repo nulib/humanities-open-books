@@ -62,6 +62,8 @@ defaults:
       type: "books"
     values:
       format: "Book"
+      layout: book
+      body_class: "standard-page"
   -
     scope:
       path: ""
