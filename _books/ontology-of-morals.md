@@ -13,5 +13,5 @@ cover: # filename
 thumbnail: #filename
 ebook:
 print:
-description: "For an Ontology of Morals: A Critique of Contemporary Ethical Theory assesses contemporary trends in ethical theory, including the deontological tradition dating back to Kant, the teleological tradition of the utilitarians, the analytic movement, and the existentialist-phenomenologist movement. In refuting these trends, Henry B. Veatch argues that moral and ethical distinctions cannot be rightly or adequately understood if they are regarded simply as matters of linguistic use but are grounded in the very being and nature of things."
 ---
+_For an Ontology of Morals: A Critique of Contemporary Ethical Theory_ assesses contemporary trends in ethical theory, including the deontological tradition dating back to Kant, the teleological tradition of the utilitarians, the analytic movement, and the existentialist-phenomenologist movement. In refuting these trends, Henry B. Veatch argues that moral and ethical distinctions cannot be rightly or adequately understood if they are regarded simply as matters of linguistic use but are grounded in the very being and nature of things.

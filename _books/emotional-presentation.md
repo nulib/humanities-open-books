@@ -1,13 +1,16 @@
 ---
 title: "On Emotional Presentation"
-author: "J.N. Findlay"
+author: "Alexius Meinong, translated and with an introduction by Marie-Luise Schubert Kalsi and with a foreword by J. N. Findlay"
+author_bio: "ALEXIUS MEINONG (1853 - 1920) was an Austrian philosopher whose work was influential on both early analytic and continental philosophy. A student of Franz Brentano, he worked in the field of descriptive psychology; his most important contribution to philosophy was his theory of objects."
 subject: "Philosophy"
 subfield: "Phenomenology"
 date: 1988-11-05
 isbn: "9780810139701"
+e_isbn: "978-0-8101-3970-1"
+p_isbn: "978-0-8101-3969-5"
 cover: emotional-presentation-1.png
 thumbnail: emotional-presentation-2.png
 ebook:
 print:
-description: "Much has been written about laughing, little about crying. The theme laughing and crying is among the exceptions. This asymmetrical division of interests in an obviously symmetrical association of phenomena has traditional grounds. Neither laughing nor crying itself was a matter of discussion, but its motive, not the form of expression in its singularity compared to other forms of expression such as speech, gesture, and expressive movement, but its occasion. For the most part, theoretical writers have directed their attention to the question of what we laugh at and why we cry, toward the aesthetic and psychological laws of the amusing and the sad, the comic and the tragic. In their studies, laughing and crying played the role of indicators which report the course of a reaction. Their analysis is concerned with the reaction and treats the indicators only as means."
 ---
+First published in German in 1917, _On Emotional Presentation_ investigates the interrelation of emotions, values, and obligation. Alexius Meinong presents a realist theory of values in which values are given in and through emotion but are also ontologically independent of emotion or any subjective attitude. Meinong's first discusses the concept of "intellectual presentation" (psychic experiences such as ideas, judgments, and assumptions), and then extends his inquiry to the psychic experience by which values, aesthetic properties, and obligations are presented. These emotional presentations are explored through a careful psychological and epistemological analysis.

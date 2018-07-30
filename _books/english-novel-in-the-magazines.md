@@ -13,5 +13,5 @@ cover: # filename
 thumbnail: #filename
 ebook:
 print:
-description: "The English Novel in the Magazines, 1740-1815, explores the popularity of magazines in the nineteenth century and the ways that much of the published fiction of the time appeared serially in these publications. Robert D. Mayo's groundbreaking study remains important to scholars of the nineteenth century as one of the first books to examine in a systematic manner the impact of magazines on reading and the dissemination of fiction in nineteenth-century England."
 ---
+_The English Novel in the Magazines, 1740-1815_, explores the popularity of magazines in the nineteenth century and the ways that much of the published fiction of the time appeared serially in these publications. Robert D. Mayo's groundbreaking study remains important to scholars of the nineteenth century as one of the first books to examine in a systematic manner the impact of magazines on reading and the dissemination of fiction in nineteenth-century England.

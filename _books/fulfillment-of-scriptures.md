@@ -13,5 +13,5 @@ cover: # filename
 thumbnail: #filename
 ebook:
 print:
-description: "Ruth M. Ames's The Fulfillment of Scriptures approaches Langland's key medieval text, Piers Plowman, using critical literary methods developed in interdisciplinary programs that explore the intersections of religion and literature. Ames draws on the history of the development of Christian doctrine as she explores the ways that the allegory of Piers parallels the story of Jesus in Christian doctrine. Ames's work offers a significantly new critical reading of Piers Plowman, influencing interpretations of medieval literature."
 ---
+Ruth M. Ames's _The Fulfillment of Scriptures_ approaches Langland's key medieval text, Piers Plowman, using critical literary methods developed in interdisciplinary programs that explore the intersections of religion and literature. Ames draws on the history of the development of Christian doctrine as she explores the ways that the allegory of Piers parallels the story of Jesus in Christian doctrine. Ames's work offers a significantly new critical reading of Piers Plowman, influencing interpretations of medieval literature.

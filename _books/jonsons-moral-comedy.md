@@ -13,5 +13,5 @@ cover: # filename
 thumbnail: #filename
 ebook:
 print:
-description: "Alan C. Dessen's Johnson's Moral Comedy asks the question about the character of Ben Jonson's comedies: were they sentimental or were they didactic and moralistic comedies? Dessen's groundbreaking text remains significant for its contribution to early conversations about Jonsonian comedy, as well as its contribution to the practice of ethical criticism of literature. In his close readings of Jonson's plays, he offers a model of engaging in such critical practice."
 ---
+Alan C. Dessen's _Johnson's Moral Comedy_ asks the question about the character of Ben Jonson's comedies: were they sentimental or were they didactic and moralistic comedies? Dessen's groundbreaking text remains significant for its contribution to early conversations about Jonsonian comedy, as well as its contribution to the practice of ethical criticism of literature. In his close readings of Jonson's plays, he offers a model of engaging in such critical practice.

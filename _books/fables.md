@@ -12,5 +12,5 @@ thumbnail: fables-1.png
 cover: fables-2.png
 ebook:
 print:
-description: "This edition of Jean de La Fontaine&rsquo;s fables includes an English translation published alongside the French text. Norman Spector adapted the French text from the 1883-85 edition by Henri Regnier, adding four tales from the 1962 edition by Georges Couton. Spector's translation is in rhymed verse, and remains faithful to the original not only in metrical patterns and rhyme schemes but also in tone: wit and le mot juste are skillfully and wonderfully combined. This translation gives the reader of English a chance to enjoy the grace, wit, and versatility of La Fontaine."
 ---
+This edition of Jean de La Fontaine's fables includes an English translation published alongside the French text. Norman Spector adapted the French text from the 1883-85 edition by Henri Regnier, adding four tales from the 1962 edition by Georges Couton. Spector's translation is in rhymed verse, and remains faithful to the original not only in metrical patterns and rhyme schemes but also in tone: wit and _le mot juste_ are skillfully and wonderfully combined. This translation gives the reader of English a chance to enjoy the grace, wit, and versatility of La Fontaine.

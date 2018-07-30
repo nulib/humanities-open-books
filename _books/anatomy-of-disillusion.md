@@ -13,5 +13,5 @@ cover: # filename
 thumbnail: #filename
 ebook:
 print:
-description: "The Anatomy of Disillusion is an introduction to Heidegger's phenomenology that focuses on Heidegger's notion of truth. Unlike many of his contemporaries, W.B. Macomber presents Heidegger as a systematic thinker, whose phenomenology is inextricably bound up with his ontology and epistemology."
 ---
+_The Anatomy of Disillusion_ is an introduction to Heidegger's phenomenology that focuses on Heidegger's notion of truth. Unlike many of his contemporaries, W.B. Macomber presents Heidegger as a systematic thinker, whose phenomenology is inextricably bound up with his ontology and epistemology.

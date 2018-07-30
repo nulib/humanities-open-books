@@ -13,5 +13,5 @@ cover: # filename
 thumbnail: #filename
 ebook:
 print:
-description: "Internal Evidence and Elizabethan Dramatic Authorship provides one the earliest attempts to write a theoretical method for evidence within plays to help determine authorship or to help distinguish the work of one author from another. Samuel Schoenbaum's study remains valuable, for the attempt to attribute unattributed plays to one or another author remains an ongoing conversation within early modern scholarship today."
 ---
+_Internal Evidence and Elizabethan Dramatic Authorship_ provides one the earliest attempts to write a theoretical method for evidence within plays to help determine authorship or to help distinguish the work of one author from another. Samuel Schoenbaum's study remains valuable, for the attempt to attribute unattributed plays to one or another author remains an ongoing conversation within early modern scholarship today.

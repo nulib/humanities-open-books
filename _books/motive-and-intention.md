@@ -13,5 +13,5 @@ cover: # filename
 thumbnail: #filename
 ebook:
 print:
-description: "Motive and Intention is a critique of certain conceptual foundations of the description and judgment of human action. Drawing on sources such as narrative history, Roy Lawrence analyzes examples of such assessments and provides and independent base for appraising familiar and tenacious theoretical presumptions. In so doing he illuminates many persistent issues of common interest in the social sciences, humanities, and law."
 ---
+_Motive and Intention_ is a critique of certain conceptual foundations of the description and judgment of human action. Drawing on sources such as narrative history, Roy Lawrence analyzes examples of such assessments and provides and independent base for appraising familiar and tenacious theoretical presumptions. In so doing he illuminates many persistent issues of common interest in the social sciences, humanities, and law.

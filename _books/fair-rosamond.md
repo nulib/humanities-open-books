@@ -13,5 +13,5 @@ cover: # filename
 thumbnail: #filename
 ebook:
 print:
-description: "In Fair Rosamond Virgil B. Heltzel traces the character of Rosamond Clifford, known as Fair Rosamond - which has its origins as a theme in medieval literature -through its use in poetry and plays and novels, from the Renaissance through the early twentieth century. Heltzel's book retains its importance today for scholars tracing certain thematic structures through all periods of literature."
 ---
+In _Fair Rosamond_, Virgil B. Heltzel traces the character of Rosamond Clifford, known as Fair Rosamond - which has its origins as a theme in medieval literature -through its use in poetry and plays and novels, from the Renaissance through the early twentieth century. Heltzel's book retains its importance today for scholars tracing certain thematic structures through all periods of literature.
