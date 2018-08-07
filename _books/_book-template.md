@@ -13,5 +13,5 @@ cover: # filename
 thumbnail: #filename
 ebook:
 print:
-description: ""
+license:
 ---
