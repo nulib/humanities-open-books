@@ -6,12 +6,14 @@ author_bio: "HARM J. DE BLIJ (1935-2014) earned his Ph. D. from Northwestern Uni
 subject: "African Studies"
 subfield: "History"
 era: "South Africa"
-date: 1988-01-01
+date: 1962-01-01
 e_isbn: "978-0-8101-3827-8"
 p_isbn: "978-0-8101-3826-1"
-cover: # filename
-thumbnail: #filename
-ebook:
+cover: africa-south-cover.png
+thumbnail: africa-south-thumbnail.png
+ebook: "https://doi.org/10.21985/N27X4H"
 print:
+doi: 10.21985/N27X4H
+license: "Creative Commons Public Domain Mark US"
 ---
 _Africa South_ presents a history and description of southern Africa from the arrival of Europeans until the creation of the Republic of South Africa in 1961. Harm J. de Blij provides a portrait of the landscape and the internal policies and struggles within the region. The work serves as a historical travel guide and an introduction to the history of southern Africa. All the maps in Africa South were prepared by the author.

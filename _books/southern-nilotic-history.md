@@ -9,10 +9,11 @@ era: "East Africa"
 date: 1971-01-01
 e_isbn: "978-0-8101-3833-9"
 p_isbn: "978-0-8101-3832-2"
-cover: # filename
-thumbnail: #filename
-ebook:
+cover: southern-nilotic-cover.png
+thumbnail: southern-nilotic-thumbnail.png
+ebook: "https://doi.org/10.21985/N2VM74"
 print:
 license: CC BY-NC-ND
+doi: 10.21985/N2VM74
 ---
 In _Southern Nilotic History_, Christopher Ehret reconstructs the history of the Southern Nilotic speaking peoples of East Africa, from their earliest origins to the beginning of the colonial period. As a history, the book is a remarkable tour de force. Using mainly linguistic evidence, the author locates populations, moves them around, determines their relative influence vis--vis their neighbors, and reconstructs aspects of their culture, from basic economy to the practice of extracting incisors. -- American Anthropologist

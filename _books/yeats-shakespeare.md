@@ -9,10 +9,11 @@ era: "20th Century"
 date: 1971-01-01
 e_isbn: "978-0-8101-3829-2"
 p_isbn: "978-0-8101-3828-5"
-cover: # filename
-thumbnail: #filename
-ebook:
+cover: yeats-cover.png
+thumbnail: yeats-thumbnail.png
+ebook: "https://doi.org/10.21985/N2441H"
 print:
+doi: 10.21985/N2441H
 license: CC BY-NC-ND
 ---
-<DIV>In <I>Yeats&#39;s Shakespeare,</I>&#160;the&#160;first full-length study of Yeats&rsquo;s interest in Shakespeare, Rupin W. Desai explores how Shakespearean works influenced Yeats&rsquo;s poetry and mythological drama. Exploring Shakespeare&rsquo;s sonnets and Yeats&rsquo;s poetry, Desai illustrates the deep degree to which Yeats identifies with Shakespeare, even to the extent of including some of Shakespeare&rsquo;s heroes in his own late poetry. Yeats&rsquo;s Shakespeare also includes an appendix that lists in detail all of Yeats&rsquo;s references to Shakespeare&rsquo;s works.</DIV>
+In _Yeats's Shakespeare_, the first full-length study of Yeats's interest in Shakespeare, Rupin W. Desai explores how Shakespearean works influenced Yeats's poetry and mythological drama. Exploring Shakespeare's sonnets and Yeats's poetry, Desai illustrates the deep degree to which Yeats identifies with Shakespeare, even to the extent of including some of Shakespeare's heroes in his own late poetry. Yeats's Shakespeare also includes an appendix that lists in detail all of Yeats's references to Shakespeare's works.

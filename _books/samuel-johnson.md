@@ -6,12 +6,14 @@ author_bio: "PAUL KENT ALKON, born in 1935, received his PhD in English literatu
 subject: "Literary Criticism & Collections"
 subfield: "England"
 era: "16th Century"
-date: 1988-01-01
+date: 1967-01-01
 e_isbn: "978-0-8101-3809-4"
 p_isbn: "978-0-8101-3807-0"
-cover: # filename
-thumbnail: #filename
-ebook:
+cover: samuel-johnson-cover.png
+thumbnail: samuel-johnson-thumbnail.png
+ebook: "https://doi.org/10.21985/N2WM62"
 print:
+doi: "10.21985/N2WM62"
+license: "CC BY-NC-ND"
 ---
 Paul Kent Alkon's _Samuel Johnson and Moral Discipline_ provides reading of Johnson that emphasizes his moral discourse. Shortly after its publication, Alkon's book became first of all the standard reading of Johnsons essays, contrasting them with the moral ideas Johnson discussed in his sermons, as moral writings, and second, as one of the first books on Johnson to explore the essayist's focus on moral thinking as central to his writing.
