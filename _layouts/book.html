@@ -6,19 +6,34 @@ layout: default
     <h3>{{ page.subject }}</h3>
       <div class="large-feature-inner">
       	<div class="content-side">
-          <h4>{{ page.title }}</h4>
-            <img alt="" src="/assets/images/{{ page.cover }}"/>
+          <h4>{{ page.title }}{% if page.subtitle %}: {{ page.subtitle }}{% endif %}</h4>
+            <img alt="Cover of {{ page.title }}" src="/assets/images/{{ page.cover }}"/>
               <div class="text">
                 <p>{{ content }}</p>
+                <h6>About the Author</h6>
+                <p>{{ page.author_bio }}</p>
               </div>
             </div>
         <div class="right-side">
-			<h4>Details</h4>
-        <p>By {{ page.author }}</p>
-						<p style="font-weight:bold">Published: {{ page.date | date: '%Y' }}</p>
-						<p style="font-weight:bold">ISBN: {{ page.isbn }}</p>
-						<a class="button" target="_blank" href="https://arch.library.northwestern.edu/">Download E-book</a>
-						<a class="button" target="_blank" href="http://www.nupress.northwestern.edu/">Order Print Copy</a>
+    			<h4>Details</h4>
+            <h5>By {{ page.author }}</h5>
+    				<p style="font-weight:bold">Publication Date: {{ page.date | date: '%Y' }}</p>
+            <h6>Categories</h6>
+              <li>{{ page.subfield }}</li>
+              {% if page.era %}
+              <li>{{ page.era }}</li>
+              {% endif %}
+            <p>DOI: <a href="{{ page.ebook }}">{{ page.doi }}</a></p>
+            <p style="font-size:85%">E-ISBN: {{ page.e_isbn }}</p>
+            <p style="font-size:85%">P-ISBN: {{ page.p_isbn }}</p>
+    				<a class="button" target="_blank" href="{{ page.ebook }}">Download E-book</a>
+    				<a class="button" target="_blank" href="{{ page.print }}">Order Print Copy</a>
+            {% if page.license == 'PD' %}
+            <a href="https://creativecommons.org/publicdomain/mark/1.0/" target="_blank" title="Licensed Creative Commons Public Domain Mark US"><img alt="Licensed Creative Commons Public Domain Mark US" src="/assets/images/pd.png"/></a>
+            {% endif %}
+            {% if page.license == 'BY-NC-ND' %}
+            <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/" target="_blank" title="Licensed Attribution-NonCommercial-NoDerivatives 4.0 International"><img alt="Licensed Attribution-NonCommercial-NoDerivatives 4.0 International" src="/assets/images/by-nc-nd.png"/></a>
+            {% endif %}
         </div>
       </div>
 </div>

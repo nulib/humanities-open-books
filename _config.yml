@@ -63,10 +63,11 @@ defaults:
     values:
       format: "Book"
       layout: book
-      body_class: "standard-page"
+      body_class: "landing-page"
   -
     scope:
       path: ""
       type: "pages"
     values:
       format: "Page"
+      body_class: "standard-page"

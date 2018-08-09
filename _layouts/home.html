@@ -14,14 +14,15 @@ layout: default
                 <div class="front">
                     <img alt="{{ book.title }}" src="/assets/images/{{ book.thumbnail }}"/>
                     <div class="text-over-image">
-                        <h4>{{ book.title }}</h4>
+                        <h4>{{ book.title }}{% if book.subtitle %}: {{ book.subtitle }}{% endif %}</h4>
                         <p class="link">View Details</p>
                     </div>
                 </div>
                 <div class="back">
                     <div class="back-text">
-                        <h4>{{ book.title }}</h4>
-                        <p>{{ book.description | truncatewords: 25 }}</p>
+                        <h4>{{ book.title }}{% if book.subtitle %}: {{ book.subtitle }}{% endif %}</h4>
+                        <p>By {{ book.author }}</p>
+                        <p>{{ book.subject }} | {{ book.subfield }}{% if book.era %} | {{ book.era }}{% endif %}</p>
                         <p class="link">View Details</p>
                     </div>
                 </div>
