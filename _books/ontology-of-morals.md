@@ -6,12 +6,14 @@ author_bio: "HENRY BABCOCK VEATCH (1911-1999) obtained his PhD from Harvard in 1
 subject: "Philosophy"
 subfield: "Ethics & Moral Philosophy"
 era: ""
-date: 1988-01-01
+date: 1971-01-01
 e_isbn: "978-0-8101-3875-9"
 p_isbn: "978-0-8101-3874-2"
-cover: # filename
-thumbnail: #filename
-ebook:
+cover: ontology-cover.png
+thumbnail: ontology-thumbnail.png
+ebook: "https://doi.org/10.21985/N2513J"
 print:
+license: CC BY-NC-ND
+doi: 10.21985/N2513J
 ---
 _For an Ontology of Morals: A Critique of Contemporary Ethical Theory_ assesses contemporary trends in ethical theory, including the deontological tradition dating back to Kant, the teleological tradition of the utilitarians, the analytic movement, and the existentialist-phenomenologist movement. In refuting these trends, Henry B. Veatch argues that moral and ethical distinctions cannot be rightly or adequately understood if they are regarded simply as matters of linguistic use but are grounded in the very being and nature of things.

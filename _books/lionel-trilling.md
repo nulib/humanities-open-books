@@ -6,12 +6,14 @@ author_bio: "MARK KRUPNICK was educated at Harvard and Brandeis and was a Fulbri
 subject: "Literary Criticism & Collections"
 subfield: "United States"
 era: "20th Century"
-date: 1988-01-01
+date: 1986-01-01
 e_isbn: "978-0-8101-3944-2"
 p_isbn: "978-0-8101-0713-7"
-cover: # filename
-thumbnail: #filename
-ebook:
+cover: lionel-cover.png
+thumbnail: lionel-thumbnail.png
+ebook: "https://doi.org/10.21985/N2WH95"
 print:
+license: "CC BY-NC-ND"
+doi: 10.21985/N2WH95
 ---
 Lionel Trilling was one of the twentieth century's most widely read and influential American literary critics. Mark Krupnick traces Trilling's career from the 1920s through the 1970s, following the shifting intellectual and ideological currents in his thought. Krupnick places Trilling's criticism and fiction in the context of his New York intellectual group, illuminating the connection between Trilling's preoccupation with self-definition and his struggle to achieve a cultural overview in a period marked by contradictions, polarizations, and reversals. He provides not only the best single assessment of Trilling but also an incisive history of American literary criticism through the mid-twentieth century.
