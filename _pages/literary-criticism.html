@@ -12,7 +12,7 @@ The following part extracts all the tags from your posts and sort tags, so that 
 =======================
 {% endcomment %}
 {% assign rawtags = "" %}
-{% assign books = site.books | where:"subject","Literary Criticism" %}
+{% assign books = site.books | where:"subject","Literary Criticism & Collections" %}
 {% for book in books %}
 	{% assign ttags = book.subfield | join:'|' | append:'|' %}
 	{% assign rawtags = rawtags | append:ttags %}
@@ -61,15 +61,18 @@ The purpose of this snippet is to list all your posts posted with a certain tag.
 	      </a>
 			</div>
 			<div class="people-content">
-				<h4><a href="{{ book.url }}">{{ book.title }}</a></h4>
+				<h4><a href="{{ book.url }}">{{ book.title }}{% if book.subtitle %}: {{ book.subtitle }}{% endif %}</a></h4>
 				<ul>
 					<li>By {{ book.author }}</li>
-					<li>Published: {{ book.date | date: '%Y' }}</li>
-					<li>ISBN: {{ book.isbn }}</li>
+					<li>Publication Date: {{ book.date | date: '%Y' }}</li>
+					{% if book.era %}
+					<li>Region: {{ book.era }}</li>
+					{% endif %}
+					<li>DOI: <a href="{{ book.ebook }}">{{ book.doi }}</a></li>
 				</ul>
 			</div>
 		</div>
-		<p>{{ book.description }} <a class="link" href="{{ book.url }}">View Book Details</a></p>
+		<p>{{ book.content | markdownify }}</p>
 	</article>
 
 	{% endif %}
