@@ -1,6 +1,5 @@
 ---
 title: "Lionel Trilling and the Fate of Cultural Criticism"
-subtitle: ""
 author: "Mark Krupnick"
 author_bio: "MARK KRUPNICK was educated at Harvard and Brandeis and was a Fulbright Scholar at Darwin College, Cambridge. He was professor of English at the University of Wisconsin-Milwaukee and wrote on the history of American criticism."
 subject: "Literary Criticism & Collections"

@@ -1,6 +1,5 @@
 ---
 title: "Samuel Johnson and Moral Discipline"
-subtitle: ""
 author: "Paul Kent Alkon"
 author_bio: "PAUL KENT ALKON, born in 1935, received his PhD in English literature from the University of Chicago in 1962. He has taught English literature at the University of California-Berkeley, the University of Maryland, the University of Minnesota, and the University of Southern California. He researches and writes on 18th century English and French literature, utopian writing, and science fiction."
 subject: "Literary Criticism & Collections"

@@ -6,12 +6,14 @@ author_bio: "SAMUEL SCHOENBAUM (1927 - 1996) was a 20th century Shakespearean bi
 subject: "Literary Criticism & Collections"
 subfield: "England"
 era: "Elizabethan"
-date: 1988-01-01
+date: 1962-01-01
 e_isbn: "978-0-8101-3867-4"
 p_isbn: "978-0-8101-3866-7"
-cover: # filename
-thumbnail: #filename
-ebook:
+cover: elizabethan-cover.png
+thumbnail: elizabethan-thumbnail.png
+ebook: "https://doi.org/10.21985/N2P12T"
 print:
+license: CC BY-NC-ND
+doi: 10.21985/N2P12T
 ---
 _Internal Evidence and Elizabethan Dramatic Authorship_ provides one the earliest attempts to write a theoretical method for evidence within plays to help determine authorship or to help distinguish the work of one author from another. Samuel Schoenbaum's study remains valuable, for the attempt to attribute unattributed plays to one or another author remains an ongoing conversation within early modern scholarship today.

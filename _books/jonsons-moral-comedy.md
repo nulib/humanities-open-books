@@ -1,6 +1,5 @@
 ---
 title: "Jonson's Moral Comedy"
-subtitle: ""
 author: "Alan C. Dessen"
 author_bio: "ALAN CHARLES DESSEN (born 1935) is professor emeritus of English at the University of North Carolina, Chapel Hill. He received his Ph. D. from Johns Hopkins in 1963. He is the author of several books including A Dictionary of Stage Directions in English Drama 1580-1642 and Elizabethan Stage Conventions and Modern Interpreters."
 subject: "Literary Criticism & Collections"

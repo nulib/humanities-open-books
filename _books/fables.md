@@ -10,7 +10,9 @@ e_isbn: "978-0-8101-3964-0"
 p_isbn: "978-0-8101-3963-3"
 thumbnail: fables-1.png
 cover: fables-2.png
-ebook:
+ebook: "https://doi.org/10.21985/N2M13K"
 print:
+license: CC BY-NC-ND
+doi: 10.21985/N2M13K
 ---
 This edition of Jean de La Fontaine's fables includes an English translation published alongside the French text. Norman Spector adapted the French text from the 1883-85 edition by Henri Regnier, adding four tales from the 1962 edition by Georges Couton. Spector's translation is in rhymed verse, and remains faithful to the original not only in metrical patterns and rhyme schemes but also in tone: wit and _le mot juste_ are skillfully and wonderfully combined. This translation gives the reader of English a chance to enjoy the grace, wit, and versatility of La Fontaine.

@@ -7,7 +7,7 @@ tagline: # "This collection rules"
 quote: # "I love this program. Truly amazing."
 quote_name: # "Yanny Laurel"
 quote_title: # "Professor of Humanities"
-hero_image: /assets/images/bird-hero.jpg
+# hero_image: /assets/images/bird-hero.jpg
 ---
 Northwestern Open is an online platform providing open access to a selection of previously out-of-print titles published by Northwestern University Press. With the generous support of the Humanities Open Book Program, a joint effort of the National Endowment for the Humanities and the Andrew W. Mellon Foundation, Northwestern is proud to make available important and groundbreaking works in philosophy, literary criticism, and African studies. Access to the collection is free and open to scholars and the public alike.  
 

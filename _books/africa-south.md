@@ -1,6 +1,5 @@
 ---
 title: "Africa South"
-subtitle: ""
 author: "Harm J. de Blij"
 author_bio: "HARM J. DE BLIJ (1935-2014) earned his Ph. D. from Northwestern University in 1959 was later the John A. Hannah Professor of Geography at Michigan State University. De Blij was the geography editor on Good Morning America for seven years and was the author of many books, including Why Geography Matters: Three Challenges Facing America and The Power of Place: Geography, Destiny, and Globalization Rough Landscape."
 subject: "African Studies"

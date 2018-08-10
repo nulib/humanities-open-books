@@ -12,6 +12,8 @@ p_isbn: "978-0-8101-3945-9"
 cover: ae-2.png
 thumbnail: ae-1.png
 print:
-ebook:
+ebook: "https://doi.org/10.21985/N2RQ77"
+license: Creative Commons Public Domain Mark US
+doi: 10.21985/N2RQ77
 ---
 This bibliography lists the books, paintings, and portraits of the mystic Irish poet George William Russell, best known by his pseudonym, "AE" Russell was a late nineteenth-and early twentieth century Irish poet and essayist whose first book of poems, _Homeward: Songs by the Way_ (1894), established him in what was known as the Irish Literary Revival.</DIV>
