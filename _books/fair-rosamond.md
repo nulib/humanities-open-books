@@ -6,12 +6,14 @@ author_bio: "VIRGIL BARNEY HELTZEL (1896 - 1976) received an M.A in English from
 subject: "Literary Criticism & Collections"
 subfield: "England"
 era: "Medieval"
-date: 1988-01-01
+date: 1947-01-01
 e_isbn: "978-0-8101-3845-2"
 p_isbn: "978-0-8101-3844-5"
-cover: # filename
-thumbnail: #filename
-ebook:
+cover: fair-cover.png
+thumbnail: fair-thumbnail.png
+ebook: "https://doi.org/10.21985/N23717"
 print:
+license: "Creative Commons Public Domain Mark US"
+doi: "10.21985/N23717"
 ---
 In _Fair Rosamond_, Virgil B. Heltzel traces the character of Rosamond Clifford, known as Fair Rosamond - which has its origins as a theme in medieval literature -through its use in poetry and plays and novels, from the Renaissance through the early twentieth century. Heltzel's book retains its importance today for scholars tracing certain thematic structures through all periods of literature.

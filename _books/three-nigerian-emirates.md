@@ -6,12 +6,12 @@ author_bio: "VICTOR NELSON LOW (born 1931) received his Ph. D. from UCLA in 1967
 subject: "African Studies"
 subfield: "History"
 era: "West Africa"
-date: 1988-01-01
+date: 1971-01-01
 e_isbn: "978-0-8101-3853-7"
 p_isbn: "978-0-8101-3852-0"
-cover: # filename
-thumbnail: #filename
-ebook:
+cover: three-cover.png
+thumbnail: three-thumbnail.png
+ebook: "https://doi.org/10.21985/N2K72Z"
 print:
 license: CC BY-NC-ND
 ---
