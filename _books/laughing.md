@@ -1,7 +1,7 @@
 ---
 title: "Laughing and Crying"
 subtitle: "A Study of the Limits of Human Behavior"
-author: "James Spencer Churchill and Marjorie Grene"
+author: "Helmuth Plessner, translated by James Spencer Churchill and Marjorie Grene and with a foreword by Marjorie Grene"
 author_bio: "HELMUTH PLESSNER (1892 - 1985) was a leading figure in the field of philosophical anthropology. He was the author of more than thirteen books, including The Limits of Community: A Critique of Social Radicalism, The Levels of the Organic and the Human, and Political Anthropology."
 subject: "Philosophy"
 subfield: "Phenomenology"
