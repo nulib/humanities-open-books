@@ -8,7 +8,7 @@ era: "Elizabethan"
 date: 1970-01-01
 e_isbn: "978-0-8101-3847-6"
 p_isbn: "978-0-8101-3846-9"
-cover: # filename
+cover: donne-cover.png
 thumbnail: donne-thumbnail.png
 ebook: "https://doi.org/10.21985/N2ZD8C"
 print:

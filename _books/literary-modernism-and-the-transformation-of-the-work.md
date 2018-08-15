@@ -7,7 +7,7 @@ subfield: "Theory"
 date: 1988-01-01
 e_isbn: "978-0-8101-3962-6"
 p_isbn: "978-0-8101-3961-9"
-cover: literary-moderism-cover.png
+cover: literary-modernism-cover.png
 thumbnail: literary-modernism-thumbnail.png
 ebook: "https://doi.org/10.21985/N2QT4T"
 print:
