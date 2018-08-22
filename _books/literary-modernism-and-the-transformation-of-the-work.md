@@ -12,5 +12,6 @@ thumbnail: literary-modernism-thumbnail.png
 ebook: "https://doi.org/10.21985/N2QT4T"
 print:
 doi: 10.21985/N2QT4T
+license: CC BY-NC-ND
 ---
 _Literary Modernism and the Transformation of Work_ probes the relationship between the aesthetic structures of modernism and its political and philosophical shape. James F. Knapp explores modernism's engagement with and reaction to the theories and discourse of scientific management that were reshaping the workplace in the early twentieth century, and in so doing, he traces the ways in which a socially dominant discourse of knowledge is reproduced - and challenged - through a series of texts that range from the marginal to the most fully canonized.

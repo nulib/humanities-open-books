@@ -28,10 +28,10 @@ layout: default
             <p style="font-size:85%">P-ISBN: {{ page.p_isbn }}</p>
     				<a class="button" target="_blank" href="{{ page.ebook }}">Download E-book</a>
     				<a class="button" target="_blank" href="{{ page.print }}">Order Print Copy</a>
-            {% if page.license == 'PD' %}
+            {% if page.license == 'Creative Commons Public Domain Mark US' %}
             <a href="https://creativecommons.org/publicdomain/mark/1.0/" target="_blank" title="Licensed Creative Commons Public Domain Mark US"><img alt="Licensed Creative Commons Public Domain Mark US" src="/assets/images/pd.png"/></a>
             {% endif %}
-            {% if page.license == 'BY-NC-ND' %}
+            {% if page.license == 'CC BY-NC-ND' %}
             <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/" target="_blank" title="Licensed Attribution-NonCommercial-NoDerivatives 4.0 International"><img alt="Licensed Attribution-NonCommercial-NoDerivatives 4.0 International" src="/assets/images/by-nc-nd.png"/></a>
             {% endif %}
         </div>
