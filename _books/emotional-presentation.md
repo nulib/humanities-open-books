@@ -10,8 +10,7 @@ e_isbn: "978-0-8101-3970-1"
 p_isbn: "978-0-8101-3969-5"
 cover: emotional-presentation-1.png
 thumbnail: emotional-presentation-2.png
-ebook: "https://doi.org/10.21985/N26T5J"
-print:
+ebook: https://doi.org/10.21985/N26T5J
 license: CC BY-NC-ND
 doi: 10.21985/N26T5J
 ---

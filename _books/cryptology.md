@@ -9,8 +9,8 @@ e_isbn: "978-0-8101-3841-4"
 p_isbn: "978-0-8101-3840-7"
 cover: cryptology-cover.png
 thumbnail: cryptology-thumbnail.png
-ebook: "https://doi.org/10.21985/N2BQ5R"
-print:
+ebook: https://doi.org/10.21985/N2BQ5R
+print: http://nupress.northwestern.edu/content/historical-and-analytical-bibliography-literature-cryptology
 doi: 10.21985/N2BQ5R
 license: "Creative Commons Public Domain Mark US"
 ---

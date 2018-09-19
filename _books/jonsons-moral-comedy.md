@@ -10,8 +10,8 @@ e_isbn: "978-0-8101-3831-5"
 p_isbn: "978-0-8101-3830-8"
 cover: jonsons-cover.png
 thumbnail: jonsons-thumbnail.png
-ebook: "https://doi.org/10.21985/N20F00"
-print:
+ebook: https://doi.org/10.21985/N20F00
+print: http://nupress.northwestern.edu/content/jonsons-moral-comedy
 doi: "10.21985/N20F00"
 license: CC BY-NC-ND
 ---

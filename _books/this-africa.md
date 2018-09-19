@@ -10,8 +10,8 @@ e_isbn: "978-0-8101-3952-7"
 p_isbn: "978-0-8101-3951-0"
 cover: this-africa-cover.png
 thumbnail: this-africa-thumbnail.png
-ebook: "https://doi.org/10.21985/N2CH9H"
-print:
+ebook: https://doi.org/10.21985/N2CH9H
+print: http://nupress.northwestern.edu/content/africa
 license: CC BY-NC-ND
 doi: 10.21985/N2CH9H
 ---

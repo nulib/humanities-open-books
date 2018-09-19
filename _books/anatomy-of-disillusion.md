@@ -10,8 +10,8 @@ e_isbn: "978-0-8101-3855-1"
 p_isbn: "978-0-8101-3854-4"
 cover: anatomy-cover.png
 thumbnail: anatomy-thumbnail.png
-ebook: "https://doi.org/10.21985/N2FD8Q"
-print:
+ebook: https://doi.org/10.21985/N2FD8Q
+print: http://nupress.northwestern.edu/content/anatomy-disillusion
 license: CC BY-NC-ND
 doi: 10.21985/N2FD8Q
 ---

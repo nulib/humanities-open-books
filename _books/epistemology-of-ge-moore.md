@@ -9,8 +9,8 @@ e_isbn: "978-0-8101-3849-0"
 p_isbn: "978-0-8101-3848-3"
 cover: moore-cover.png
 thumbnail: moore-thumbnail.png
-ebook: "https://doi.org/10.21985/N2TQ6G"
-print:
+ebook: https://doi.org/10.21985/N2TQ6G
+print: http://nupress.northwestern.edu/content/epistemology-g-e-moore
 license: CC BY-NC-ND
 doi: 10.21985/N2TQ6G
 ---

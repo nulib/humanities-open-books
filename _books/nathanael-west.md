@@ -11,8 +11,8 @@ e_isbn: "978-0-8101-3966-4"
 p_isbn: "978-0-8101-3965-7"
 cover: nathanael-cover.png
 thumbnail: nathanael-thumbnail.png
-ebook: "https://doi.org/10.21985/N2GB09"
-print:
+ebook: https://doi.org/10.21985/N2GB09
+print: http://nupress.northwestern.edu/content/nathanael-west
 doi: 10.21985/N2GB09
 license: CC BY-NC-ND
 ---

@@ -10,8 +10,8 @@ e_isbn: "978-0-8101-3847-6"
 p_isbn: "978-0-8101-3846-9"
 cover: donne-cover.png
 thumbnail: donne-thumbnail.png
-ebook: "https://doi.org/10.21985/N2ZD8C"
-print:
+ebook: https://doi.org/10.21985/N2ZD8C
+print: http://nupress.northwestern.edu/content/john-donnes-christian-vocation
 license: CC BY-NC-ND
 doi: 10.21985/N2ZD8C
 ---

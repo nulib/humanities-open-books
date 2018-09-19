@@ -11,8 +11,8 @@ e_isbn: "978-0-8101-3968-8"
 p_isbn: "978-0-8101-3967-1"
 cover: sherlock-cover.png
 thumbnail: sherlock-thumbnail.png
-ebook: "https://doi.org/10.21985/N2BH96"
-print:
+ebook: https://doi.org/10.21985/N2BH96
+print: http://nupress.northwestern.edu/content/sherlock-holmes-esq-and-john-h-watson-md
 license: Creative Commons Public Domain Mark US
 doi: 10.21985/N2BH96
 ---

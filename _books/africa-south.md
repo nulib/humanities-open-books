@@ -10,8 +10,8 @@ e_isbn: "978-0-8101-3827-8"
 p_isbn: "978-0-8101-3826-1"
 cover: africa-south-cover.png
 thumbnail: africa-south-thumbnail.png
-ebook: "https://doi.org/10.21985/N27X4H"
-print:
+ebook: https://doi.org/10.21985/N27X4H
+print: http://nupress.northwestern.edu/content/africa-south-0
 doi: 10.21985/N27X4H
 license: "Creative Commons Public Domain Mark US"
 ---

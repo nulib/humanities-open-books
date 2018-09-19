@@ -11,8 +11,8 @@ e_isbn: "978-0-8101-3821-6"
 p_isbn: "978-0-8101-3820-9"
 cover: fulfillment-thumbnail.png
 thumbnail: fulfillment-thumbnail.png
-ebook: "https://doi.org/10.21985/N2N415"
-print:
+ebook: https://doi.org/10.21985/N2N415
+print: http://nupress.northwestern.edu/content/fulfillment-scriptures-0
 doi: "10.21985/N2N415"
 license: CC BY-NC-ND
 ---

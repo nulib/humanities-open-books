@@ -10,8 +10,8 @@ e_isbn: "978-0-8101-3861-2"
 p_isbn: "978-0-8101-3860-5"
 cover: karamzin-cover.png
 thumbnail: karamzin-thumbnail.png
-ebook: "https://doi.org/10.21985/N2271X"
-print:
+ebook: https://doi.org/10.21985/N2271X
+print: http://nupress.northwestern.edu/content/selected-prose-n-m-karamzin
 license: CC BY-NC-ND
 doi: 10.21985/N2271X
 ---

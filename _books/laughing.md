@@ -10,8 +10,7 @@ e_isbn: "978-0-8101-3972-5"
 p_isbn: "978-0-8101-3971-8"
 cover: laughing-2.png
 thumbnail: laughing-1.png
-ebook: "https://doi.org/10.21985/N2313X"
-print:
+ebook: https://doi.org/10.21985/N2313X
 license: CC BY-NC-ND
 doi: 10.21985/N2313X
 ---

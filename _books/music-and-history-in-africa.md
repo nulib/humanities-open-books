@@ -9,8 +9,8 @@ p_isbn: "978-0-8101-3959-6"
 e_isbn: "978-0-8101-3960-2"
 cover: music-and-history-2.png
 thumbnail: music-and-history-1.png
-ebook: "https://doi.org/10.21985/N2VH9V"
-print:
+ebook: https://doi.org/10.21985/N2VH9V
+print: http://nupress.northwestern.edu/content/essays-music-and-history-africa
 license: CC BY-NC-ND
 doi: 10.21985/N2VH9V
 ---

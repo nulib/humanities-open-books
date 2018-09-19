@@ -10,8 +10,8 @@ e_isbn: "978-0-8101-3964-0"
 p_isbn: "978-0-8101-3963-3"
 thumbnail: fables-1.png
 cover: fables-2.png
-ebook: "https://doi.org/10.21985/N2M13K"
-print:
+ebook: https://doi.org/10.21985/N2M13K
+print: http://nupress.northwestern.edu/content/complete-fables-jean-de-la-fontaine-1
 license: CC BY-NC-ND
 doi: 10.21985/N2M13K
 ---

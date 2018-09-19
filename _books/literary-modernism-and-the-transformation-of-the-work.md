@@ -9,8 +9,8 @@ e_isbn: "978-0-8101-3962-6"
 p_isbn: "978-0-8101-3961-9"
 cover: literary-modernism-cover.png
 thumbnail: literary-modernism-thumbnail.png
-ebook: "https://doi.org/10.21985/N2QT4T"
-print:
+ebook: https://doi.org/10.21985/N2QT4T
+print: http://nupress.northwestern.edu/content/literary-modernism-and-transformation-work-1
 doi: 10.21985/N2QT4T
 license: CC BY-NC-ND
 ---

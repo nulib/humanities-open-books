@@ -11,8 +11,8 @@ e_isbn: "978-0-8101-3877-3"
 p_isbn: "978-0-8101-3876-6"
 cover: french-cover.png
 thumbnail: french-thumbnail.png
-ebook: "https://doi.org/10.21985/N2171M"
-print:
+ebook: https://doi.org/10.21985/N2171M
+print: http://nupress.northwestern.edu/content/critical-prefaces-french-renaissance
 license: "Creative Commons Public Domain Mark US"
 doi: 10.21985/N2171M
 ---

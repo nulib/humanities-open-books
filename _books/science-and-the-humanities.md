@@ -9,8 +9,8 @@ e_isbn: "978-0-8101-3865-0"
 p_isbn: "978-0-8101-3864-3"
 cover: science-cover.png
 thumbnail: science-thumbnail.png
-ebook: "https://doi.org/10.21985/N2SQ7J"
-print:
+ebook: https://doi.org/10.21985/N2SQ7J
+print: http://nupress.northwestern.edu/content/science-and-humanities
 license: CC BY-NC-ND
 doi: 10.21985/N2SQ7J
 ---

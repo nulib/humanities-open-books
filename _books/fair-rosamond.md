@@ -11,8 +11,8 @@ e_isbn: "978-0-8101-3845-2"
 p_isbn: "978-0-8101-3844-5"
 cover: fair-cover.png
 thumbnail: fair-thumbnail.png
-ebook: "https://doi.org/10.21985/N23717"
-print:
+ebook: https://doi.org/10.21985/N23717
+print: http://nupress.northwestern.edu/content/fair-rosamond
 license: "Creative Commons Public Domain Mark US"
 doi: "10.21985/N23717"
 ---

@@ -11,8 +11,8 @@ e_isbn: "978-0-8101-3835-3"
 p_isbn: "978-0-8101-3834-6"
 cover: tristan-cover.png
 thumbnail: tristan-thumbnail.png
-ebook: "https://doi.org/10.21985/N2QX57"
-print:
+ebook: https://doi.org/10.21985/N2QX57
+print: http://nupress.northwestern.edu/content/tristan-legend
 license: CC BY-NC-ND
 doi: 10.21985/N2QX57
 ---

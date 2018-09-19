@@ -11,8 +11,8 @@ e_isbn: "978-0-8101-3954-1"
 p_isbn: "978-0-8101-3953-4"
 cover: dh-2.png
 thumbnail: dh-1.png
-ebook: "https://doi.org/10.21985/N27Q7K"
-print:
+ebook: https://doi.org/10.21985/N27Q7K
+print: http://nupress.northwestern.edu/content/d-h-lawrence
 license: CC BY-NC-ND
 doi: 10.21985/N27Q7K
 ---

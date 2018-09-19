@@ -11,8 +11,8 @@ e_isbn: "978-0-8101-3819-3"
 p_isbn: "978-0-8101-3818-6"
 cover: hausa-cover.png
 thumbnail: hausa-thumbnail.png
-ebook: "https://doi.org/10.21985/N2RX45"
-print:
+ebook: https://doi.org/10.21985/N2RX45
+print: http://nupress.northwestern.edu/content/glossary-hausa-music-and-its-social-contexts-0
 license: CC BY-NC-ND
 doi: 10.21985/N2RX45
 ---

@@ -11,8 +11,8 @@ e_isbn: "978-0-8101-3825-4"
 p_isbn: "978-0-8101-3824-7"
 cover: scandinavian-cover.png
 thumbnail: scandinavian-thumbnail.png
-ebook: "https://doi.org/10.21985/N2CM6D"
-print:
+ebook: https://doi.org/10.21985/N2CM6D
+print: http://nupress.northwestern.edu/content/scandinavian-elements-finnegans-wake-0
 license: CC BY-NC-ND
 doi: "10.21985/N2CM6D"
 ---

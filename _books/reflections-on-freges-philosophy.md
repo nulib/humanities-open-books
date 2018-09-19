@@ -9,8 +9,8 @@ e_isbn: "978-0-8101-3956-5"
 p_isbn: "978-0-8101-3955-8"
 cover: frege-cover.png
 thumbnail: frege-thumbnail.png
-ebook: "https://doi.org/10.21985/N24137"
-print:
+ebook: https://doi.org/10.21985/N24137
+print: http://nupress.northwestern.edu/content/reflections-freges-philosophy
 license: CC BY-NC-ND
 doi: 10.21985/N24137
 ---

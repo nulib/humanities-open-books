@@ -10,8 +10,8 @@ e_isbn: "978-0-8101-3944-2"
 p_isbn: "978-0-8101-0713-7"
 cover: lionel-cover.png
 thumbnail: lionel-thumbnail.png
-ebook: "https://doi.org/10.21985/N2WH95"
-print:
+ebook: https://doi.org/10.21985/N2WH95
+print: http://nupress.northwestern.edu/content/lionel-trilling-and-fate-cultural-criticism
 license: "CC BY-NC-ND"
 doi: 10.21985/N2WH95
 ---

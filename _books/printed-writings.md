@@ -11,8 +11,8 @@ e_isbn: "978-0-8101-3946-6"
 p_isbn: "978-0-8101-3945-9"
 cover: ae-2.png
 thumbnail: ae-1.png
-print:
-ebook: "https://doi.org/10.21985/N2RQ77"
+print: http://nupress.northwestern.edu/content/printed-writings-george-w-russell
+ebook: https://doi.org/10.21985/N2RQ77
 license: Creative Commons Public Domain Mark US
 doi: 10.21985/N2RQ77
 ---

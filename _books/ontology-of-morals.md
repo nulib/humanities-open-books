@@ -11,8 +11,8 @@ e_isbn: "978-0-8101-3875-9"
 p_isbn: "978-0-8101-3874-2"
 cover: ontology-cover.png
 thumbnail: ontology-thumbnail.png
-ebook: "https://doi.org/10.21985/N2513J"
-print:
+ebook: https://doi.org/10.21985/N2513J
+print: http://nupress.northwestern.edu/content/ontology-morals
 license: CC BY-NC-ND
 doi: 10.21985/N2513J
 ---

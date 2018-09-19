@@ -11,8 +11,8 @@ e_isbn: "978-0-8101-3833-9"
 p_isbn: "978-0-8101-3832-2"
 cover: southern-nilotic-cover.png
 thumbnail: southern-nilotic-thumbnail.png
-ebook: "https://doi.org/10.21985/N2VM74"
-print:
+ebook: https://doi.org/10.21985/N2VM74
+print: http://nupress.northwestern.edu/content/southern-nilotic-history
 license: CC BY-NC-ND
 doi: 10.21985/N2VM74
 ---

@@ -10,8 +10,8 @@ e_isbn: "978-0-8101-3958-9"
 p_isbn: "978-0-8101-3957-2"
 cover: motive-cover.png
 thumbnail: motive-thumbnail.png
-ebook: "https://doi.org/10.21985/N20719"
-print:
+ebook: https://doi.org/10.21985/N20719
+print: http://nupress.northwestern.edu/content/motive-and-intention
 license: CC BY-NC-ND
 doi: 10.21985/N20719
 ---

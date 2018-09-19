@@ -11,8 +11,8 @@ e_isbn: "978-0-8101-3823-0"
 p_isbn: "978-0-8101-3822-3"
 cover: william-warner-cover.png
 thumbnail: william-warner-thumbnail.png
-ebook: "https://doi.org/10.21985/N2HF0N"
-print:
+ebook: https://doi.org/10.21985/N2HF0N
+print: http://nupress.northwestern.edu/content/william-warners-syrinx-0
 license: Creative Commons Public Domain Mark US
 doi: "10.21985/N2HF0N"
 ---

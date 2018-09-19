@@ -10,8 +10,8 @@ e_isbn: "978-0-8101-3871-1"
 p_isbn: "978-0-8101-3870-4"
 cover: romain-cover.png
 thumbnail: romain-thumbnail.png
-ebook: "https://doi.org/10.21985/N2DH72"
-print:
+ebook: https://doi.org/10.21985/N2DH72
+print: http://nupress.northwestern.edu/content/critical-bibliography-published-writings-romain-rolland
 license: "Creative Commons Public Domain Mark US"
 doi: 10.21985/N2DH72
 ---

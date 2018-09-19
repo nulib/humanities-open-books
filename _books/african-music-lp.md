@@ -10,8 +10,8 @@ e_isbn: "978-0-8101-3859-9"
 p_isbn: "978-0-8101-3858-2"
 cover: african-music-cover.png
 thumbnail: african-music-thumbnail.png
-ebook: "https://doi.org/10.21985/N25X4W"
-print:
+ebook: https://doi.org/10.21985/N25X4W
+print: http://nupress.northwestern.edu/content/african-music-lp
 license: CC BY-NC-ND
 doi: 10.21985/N25X4W
 ---

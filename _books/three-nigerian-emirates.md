@@ -11,8 +11,8 @@ e_isbn: "978-0-8101-3853-7"
 p_isbn: "978-0-8101-3852-0"
 cover: three-cover.png
 thumbnail: three-thumbnail.png
-ebook: "https://doi.org/10.21985/N2K72Z"
-print:
+ebook: https://doi.org/10.21985/N2K72Z
+print: http://nupress.northwestern.edu/content/three-nigerian-emirates
 license: CC BY-NC-ND
 ---
 _Three Nigerian Emirates: A Study in Oral History_ is a widely held study on a scarcely examined region of Nigeria. Victor N. Low presents a detailed account of the leaders, people, and culture of the Hadejia, Katagum, and Gombe regions documented in a transcribed oral history. This work presents a valuable portrait of societies where the tradition of memory and oral history are the only means of remembering the past.

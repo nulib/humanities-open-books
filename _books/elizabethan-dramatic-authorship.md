@@ -11,8 +11,8 @@ e_isbn: "978-0-8101-3867-4"
 p_isbn: "978-0-8101-3866-7"
 cover: elizabethan-cover.png
 thumbnail: elizabethan-thumbnail.png
-ebook: "https://doi.org/10.21985/N2P12T"
-print:
+ebook: https://doi.org/10.21985/N2P12T
+print: http://nupress.northwestern.edu/content/internal-evidence-and-elizabethan-dramatic-authorship
 license: CC BY-NC-ND
 doi: 10.21985/N2P12T
 ---

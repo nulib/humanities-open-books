@@ -9,8 +9,8 @@ e_isbn: "978-0-8101-3843-8"
 p_isbn: "978-0-8101-3842-1"
 cover: kant-cover.png
 thumbnail: kant-thumbnail.png
-ebook: "https://doi.org/10.21985/N26X46"
-print:
+ebook: https://doi.org/10.21985/N26X46
+print: http://nupress.northwestern.edu/content/kant-ontology-and-priori
 license: CC BY-NC-ND
 doi: 10.21985/N26X46
 ---

@@ -9,8 +9,8 @@ e_isbn: "978-0-8101-3851-3"
 p_isbn: "978-0-8101-3850-6"
 cover: phenom-cover.png
 thumbnail: anatomy-thumbnail.png
-ebook: "https://doi.org/10.21985/N2PX35"
-print:
+ebook: https://doi.org/10.21985/N2PX35
+print: http://nupress.northwestern.edu/content/reason-and-evidence-husserls-phenomenology
 license: CC BY-NC-ND
 doi: 10.21985/N2PX35
 ---

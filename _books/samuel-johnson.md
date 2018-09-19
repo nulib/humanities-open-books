@@ -10,8 +10,8 @@ e_isbn: "978-0-8101-3809-4"
 p_isbn: "978-0-8101-3807-0"
 cover: samuel-johnson-cover.png
 thumbnail: samuel-johnson-thumbnail.png
-ebook: "https://doi.org/10.21985/N2WM62"
-print:
+ebook: https://doi.org/10.21985/N2WM62
+print: http://nupress.northwestern.edu/content/samuel-johnson-and-moral-discipline-0
 doi: "10.21985/N2WM62"
 license: "CC BY-NC-ND"
 ---

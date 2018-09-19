@@ -10,8 +10,8 @@ e_isbn: "978-0-8101-3857-5"
 p_isbn: "978-0-8101-3856-8"
 cover: english-novel-cover.png
 thumbnail: english-novel-thumbnail.png
-ebook: "https://doi.org/10.21985/N29Q76"
-print:
+ebook: https://doi.org/10.21985/N29Q76
+print: http://nupress.northwestern.edu/content/english-novel-magazines-1740-1815
 license: CC BY-NC-ND
 doi: 10.21985/N29Q76
 ---

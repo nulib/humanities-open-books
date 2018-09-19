@@ -11,8 +11,8 @@ e_isbn: "978-0-8101-3837-7"
 p_isbn: "978-0-8101-3836-0"
 cover: thackeray-cover.png
 thumbnail: thackeray-thumbnail.png
-ebook: "https://doi.org/10.21985/N2M70H"
-print:
+ebook: https://doi.org/10.21985/N2M70H
+print: http://nupress.northwestern.edu/content/thackeray
 license: Creative Commons Public Domain Mark US
 doi: 10.21985/N2M70H
 ---

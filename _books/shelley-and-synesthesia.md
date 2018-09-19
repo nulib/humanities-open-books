@@ -10,8 +10,8 @@ e_isbn: "978-0-8101-3863-6"
 p_isbn: "978-0-8101-3862-9"
 cover: shelley-cover.png
 thumbnail: shelley-thumbnail.png
-ebook: "https://doi.org/10.21985/N2XD9F"
-print:
+ebook: https://doi.org/10.21985/N2XD9F
+print: http://nupress.northwestern.edu/content/shelley-and-synesthesia
 license: CC BY-NC-ND
 doi: 10.21985/N2XD9F
 ---

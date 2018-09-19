@@ -10,8 +10,8 @@ e_isbn: "978-0-8101-3829-2"
 p_isbn: "978-0-8101-3828-5"
 cover: yeats-cover.png
 thumbnail: yeats-thumbnail.png
-ebook: "https://doi.org/10.21985/N2441H"
-print:
+ebook: https://doi.org/10.21985/N2441H
+print: http://nupress.northwestern.edu/content/yeatss-shakespeare
 doi: 10.21985/N2441H
 license: CC BY-NC-ND
 ---

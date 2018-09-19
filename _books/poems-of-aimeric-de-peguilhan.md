@@ -11,8 +11,8 @@ e_isbn: "978-0-8101-3869-8"
 p_isbn: "978-0-8101-3868-1"
 cover: poems-cover.png
 thumbnail: poems-thumbnail.png
-ebook: "https://doi.org/10.21985/N2J718"
-print:
+ebook: https://doi.org/10.21985/N2J718
+print: http://nupress.northwestern.edu/content/poems-aimeric-de-peguilhan
 license: "Creative Commons Public Domain Mark US"
 doi: 10.21985/N2J718
 ---

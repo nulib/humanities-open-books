@@ -10,8 +10,8 @@ e_isbn: "978-0-8101-3950-3"
 p_isbn: "978-0-8101-3949-7"
 cover: dark-conceit-cover.png
 thumbnail: dark-conceit-thumbnail.png
-ebook: "https://doi.org/10.21985/N2H71Z"
-print:
+ebook: https://doi.org/10.21985/N2H71Z
+print: http://nupress.northwestern.edu/content/dark-conceit
 license: CC BY-NC-ND
 doi: 10.21985/N2H71Z
 ---

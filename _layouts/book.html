@@ -27,7 +27,9 @@ layout: default
             <p style="font-size:85%">E-ISBN: {{ page.e_isbn }}</p>
             <p style="font-size:85%">P-ISBN: {{ page.p_isbn }}</p>
     				<a class="button" target="_blank" href="{{ page.ebook }}">Download E-book</a>
+            {% if page.print %}
     				<a class="button" target="_blank" href="{{ page.print }}">Order Print Copy</a>
+            {% endif %}
             {% if page.license == 'Creative Commons Public Domain Mark US' %}
             <a href="https://creativecommons.org/publicdomain/mark/1.0/" target="_blank" title="Licensed Creative Commons Public Domain Mark US"><img alt="Licensed Creative Commons Public Domain Mark US" src="/assets/images/pd.png"/></a>
             {% endif %}

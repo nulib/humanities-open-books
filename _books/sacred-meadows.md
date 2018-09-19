@@ -11,8 +11,8 @@ e_isbn: "978-0-8101-3948-0"
 p_isbn: "978-0-8101-3947-3"
 cover: sacred-meadows-cover.png
 thumbnail: sacred-meadows-thumbnail.png
-ebook: "https://doi.org/10.21985/N2N148"
-print:
+ebook: https://doi.org/10.21985/N2N148
+print: http://nupress.northwestern.edu/content/sacred-meadows
 license: CC BY-NC-ND
 doi: 10.21985/N2N148
 ---
