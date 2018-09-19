@@ -1,6 +1,5 @@
 ---
 title: "Critical Prefaces of the French Renaissance"
-subtitle: ""
 author: "Bernard Weinberg"
 author_bio: "<DIV><B>BERNARD WEINBERG</B> (1909-1973) was a textual critic, literary critic, and historian of criticism who designated his field of study as &quot;Romance Philology.&quot; He was a passionate collector of books in Italian and French literature beginning with a notable array of Renaissance texts on literary criticism. He taught in the Department of Romance Languages and Literature the University of Chicago and later served as department chair.</DIV>"
 subject: "Literary Criticism & Collections"

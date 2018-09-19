@@ -1,6 +1,5 @@
 ---
 title: "Matthew Arnold the Ethnologist"
-subtitle: ""
 author: "Frederic E. Faverty"
 author_bio: "FREDERIC E. FAVERTY (1902 - 1981) received his Ph.D. in 1930 from Harvard University. He was an English professor at Northwestern University 1930 from 1971."
 subject: "Literary Criticism & Collections"

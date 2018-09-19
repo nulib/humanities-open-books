@@ -1,6 +1,5 @@
 ---
 title: "Scandinavian Elements of Finnegan's Wake"
-subtitle: ""
 author: "Dounia Bunis Christiani"
 author_bio: "DOUNIA BUNIS CHRISTIANI, born in 1913, taught English literature at Wisconsin State University-Eau Claire. She wrote on English and Scandinavian literature and translated Ibsen's The Wild Duck into English."
 subject: "Literary Criticism & Collections"

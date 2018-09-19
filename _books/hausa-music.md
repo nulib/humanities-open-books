@@ -1,11 +1,9 @@
 ---
 title: "Glossary of Hausa Music and Its Social Contexts"
-subtitle: ""
 author: "David W. Ames and Anthony V. King"
 author_bio: "DAVID W. AMES received his Ph. D. from Northwestern University in 1953 and was a professor and anthropologist at San Francisco State College (later San Francisco State University) where he was appointed Professor Emeritus in 1993. ANTHONY V. KING was an ethnomusicologist at the School of Oriental and African Studies, University of London."
 subject: "African Studies"
 subfield: "Music"
-era: ""
 date: 1971-01-01
 e_isbn: "978-0-8101-3819-3"
 p_isbn: "978-0-8101-3818-6"
