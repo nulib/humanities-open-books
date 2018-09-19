@@ -9,8 +9,6 @@ license            : "None"
 url                : "localhost:4000"
 baseurl            :
 encoding           : utf-8
-google_analytics   : ""
-
 
 # Editorial
 editors:
