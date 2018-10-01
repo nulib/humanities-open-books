@@ -2,7 +2,7 @@
 title: "Tristan Legend"
 subtitle: "A Study in Sources"
 author: "Sigmund Eisner"
-author_bio: "SIGMUND EISNER (1920-2012) earned his PhD in 1955 from Columbia University. He was a Chaucerian scholar and professor at the University of Arizona."
+author_bio: "SIGMUND EISNER (1920-2012) earned his Ph.D. in 1955 from Columbia University. He was a Chaucerian scholar and professor at the University of Arizona."
 subject: "Literary Criticism & Collections"
 subfield: "England"
 era: "Middle Ages"

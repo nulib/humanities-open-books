@@ -1,7 +1,7 @@
 ---
 title: "Yeats's Shakespeare"
 author: "Rupin W. Desai"
-author_bio: "RUPIN W. DESAI earned his PhD in English literature at Northwestern University, on a Fulbright scholarship. He returned to India where he became a professor of English at Delhi University and the founding editor of the journal Hamlet Studies."
+author_bio: "RUPIN W. DESAI earned his Ph.D. in English literature at Northwestern University, on a Fulbright scholarship. He returned to India where he became a professor of English at Delhi University and the founding editor of the journal Hamlet Studies."
 subject: "Literary Criticism & Collections"
 subfield: "England"
 era: "20th Century"

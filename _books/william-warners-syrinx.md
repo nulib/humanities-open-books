@@ -2,7 +2,7 @@
 title: "William Warner's Syrinx"
 subtitle: "or, A Sevenfold History"
 author: "William Warner, edited with introduction and notes by Wallace A. Bacon"
-author_bio: "WILLIAM WARNER (1558-1605) was an English poet and lawyer. WALLACE A. BACON (1914-2001) earned his PhD at the University of Michigan and an LL.D. from Emerson College. He taught early modern theater at Northwestern University for many years and founded what is now the Department of Performance Studies."
+author_bio: "WILLIAM WARNER (1558-1605) was an English poet and lawyer. WALLACE A. BACON (1914-2001) earned his Ph.D. at the University of Michigan and an LL.D. from Emerson College. He taught early modern theater at Northwestern University for many years and founded what is now the Department of Performance Studies."
 subject: "Literary Criticism & Collections"
 subfield: "England"
 era: "16th Century"

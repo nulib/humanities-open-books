@@ -1,7 +1,7 @@
 ---
 title: "English Novel in the Magazines, 1740-1815"
 author: "Robert D. Mayo"
-author_bio: "ROBERT DONALD MAYO (1910-1998) was a professor of English at Northwestern University for 35 years. A native of Chicago, he earned his PhD at Princeton University and taught at Oberlin College and Northwestern University. He edited The Analyst, and published widely on 18th century English fiction."
+author_bio: "ROBERT DONALD MAYO (1910-1998) was a professor of English at Northwestern University for 35 years. A native of Chicago, he earned his Ph.D. at Princeton University and taught at Oberlin College and Northwestern University. He edited The Analyst, and published widely on 18th century English fiction."
 subject: "Literary Criticism & Collections"
 subfield: "England"
 era: "18th Century"

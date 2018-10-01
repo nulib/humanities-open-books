@@ -2,7 +2,7 @@
 title: "Fair Rosamond"
 subtitle: "A Study of the Development of a Literary Theme"
 author: "Virgil B. Heltzel"
-author_bio: "VIRGIL BARNEY HELTZEL (1896 - 1976) received an M.A in English from Harvard University in 1920, and a PhD from the University of Chicago in 1925 after serving in the U.S. Army from 1917-1919. He taught in the English Department at Northwestern University where he remained until his retirement as a professor of English in 1962."
+author_bio: "VIRGIL BARNEY HELTZEL (1896 - 1976) received an M.A in English from Harvard University in 1920, and a Ph.D. from the University of Chicago in 1925 after serving in the U.S. Army from 1917-1919. He taught in the English Department at Northwestern University where he remained until his retirement as a professor of English in 1962."
 subject: "Literary Criticism & Collections"
 subfield: "England"
 era: "Medieval"

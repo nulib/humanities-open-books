@@ -2,7 +2,7 @@
 title: "Anatomy of Disillusion"
 subtitle: "Martin Heidegger's Notion of Truth"
 author: "W.B. Macomber"
-author_bio: "WILLIAM BURNS MACOMBER (1929-2009) taught philosophy at Toronto Pontifical Institute, where he earned his PhD, and at the University of California-Santa Barbara."
+author_bio: "WILLIAM BURNS MACOMBER (1929-2009) taught philosophy at Toronto Pontifical Institute, where he earned his Ph.D., and at the University of California-Santa Barbara."
 subject: "Philosophy"
 subfield: "Phenomenology"
 date: 1967-01-01

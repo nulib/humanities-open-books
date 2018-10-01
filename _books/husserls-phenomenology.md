@@ -1,7 +1,7 @@
 ---
 title: "Reason and Evidence in Husserl's Phenomenology"
 author: "David Michael Kleinberg-Levin"
-author_bio: "DAVID MICHAEL KLEINBERG-LEVIN earned his PhD in Philosophy from Columbia University in 1967. He taught in the Humanities Department at MIT from 1968 until 1972, and in the Department of Philosophy at Northwestern University from 1972 to 2005. He specializes in Continental philosophy, hermeneutical phenomenology, and questions in aesthetics, clinical psychology, moral philosophy and critical social theory."
+author_bio: "DAVID MICHAEL KLEINBERG-LEVIN earned his Ph.D. in Philosophy from Columbia University in 1967. He taught in the Humanities Department at MIT from 1968 until 1972, and in the Department of Philosophy at Northwestern University from 1972 to 2005. He specializes in Continental philosophy, hermeneutical phenomenology, and questions in aesthetics, clinical psychology, moral philosophy and critical social theory."
 subject: "Philosophy"
 subfield: "Phenomenology"
 date: 1970-01-01

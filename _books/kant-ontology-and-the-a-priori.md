@@ -1,7 +1,7 @@
 ---
 title: "Kant, Ontology, and the A Priori"
 author: "Moltke S. Gram"
-author_bio: "MOLTKE STEFANUS GRAM (born 1938) received his PhD in philosophy from Indiana University Bloomington in 1966. He taught philosophy at Indiana University Bloomington, Northwestern University, and the University of Iowa."
+author_bio: "MOLTKE STEFANUS GRAM (born 1938) received his Ph.D. in philosophy from Indiana University Bloomington in 1966. He taught philosophy at Indiana University Bloomington, Northwestern University, and the University of Iowa."
 subject: "Philosophy"
 subfield: "Metaphysics"
 date: 1968-01-01

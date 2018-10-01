@@ -2,7 +2,7 @@
 title: "For an Ontology of Morals"
 subtitle: "A Critique of Contemporary Ethical Theory"
 author: "Henry B. Veatch"
-author_bio: "HENRY BABCOCK VEATCH (1911-1999) obtained his PhD from Harvard in 1937 and spent his career at Indiana University, Northwestern, and Georgetown, where he was Philosophy Department Chair from 1973 to 1976. Veatch was a proponent of rationalism, an authority on Thomistic philosophy, and one of the leading neo-Aristotelian thinkers of his time."
+author_bio: "HENRY BABCOCK VEATCH (1911-1999) obtained his Ph.D. from Harvard in 1937 and spent his career at Indiana University, Northwestern, and Georgetown, where he was Philosophy Department Chair from 1973 to 1976. Veatch was a proponent of rationalism, an authority on Thomistic philosophy, and one of the leading neo-Aristotelian thinkers of his time."
 subject: "Philosophy"
 subfield: "Ethics & Moral Philosophy"
 era: ""
