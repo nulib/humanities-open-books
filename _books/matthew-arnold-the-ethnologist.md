@@ -12,7 +12,7 @@ cover: matthew-arnold-cover.png
 thumbnail: matthew-arnold-thumbnail.png
 ebook: https://doi.org/10.21985/N2GD9D
 print: http://nupress.northwestern.edu/content/matthew-arnold-ethnologist
-license: "Creative Commons Public Domain Mark US"
+license: "No Copyright - United States"
 doi: 10.21985/N2GD9D
 ---
 _Matthew Arnold the Ethnologist_, originally published in 1951, makes the original argument that the renowned English critic Matthew Arnold contributed to the climate of racialism current during his lifetime. Frederic E. Faverty shows that in his essays on national character, Arnold used anthropological concepts of race and language, albeit inconsistently. Faverty's critique of Arnold draws particular attention to the lack of a specifically cultural (rather than racial) analysis of the type pioneered by his contemporary Edward Burnett Tylor.

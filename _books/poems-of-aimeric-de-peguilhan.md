@@ -12,7 +12,7 @@ cover: poems-cover.png
 thumbnail: poems-thumbnail.png
 ebook: https://doi.org/10.21985/N2J718
 print: http://nupress.northwestern.edu/content/poems-aimeric-de-peguilhan
-license: "Creative Commons Public Domain Mark US"
+license: "No Copyright - United States"
 doi: 10.21985/N2J718
 ---
 _Poems of Aimeric de Peguilhan_ is the first critical, annotated translation in English of the collected work of poet Aimeric de Peguilhan. In it, William P. Shepard and Frank M. Chambers provide translations and introductory material to the work of the medieval French troubadour.

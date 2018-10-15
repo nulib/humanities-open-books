@@ -13,6 +13,6 @@ thumbnail: africa-south-thumbnail.png
 ebook: https://doi.org/10.21985/N27X4H
 print: http://nupress.northwestern.edu/content/africa-south-0
 doi: 10.21985/N27X4H
-license: "Creative Commons Public Domain Mark US"
+license: "No Copyright - United States"
 ---
 _Africa South_ presents a history and description of southern Africa from the arrival of Europeans until the creation of the Republic of South Africa in 1961. Harm J. de Blij provides a portrait of the landscape and the internal policies and struggles within the region. The work serves as a historical travel guide and an introduction to the history of southern Africa. All the maps in Africa South were prepared by the author.

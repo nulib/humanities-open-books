@@ -12,7 +12,7 @@ cover: romain-cover.png
 thumbnail: romain-thumbnail.png
 ebook: https://doi.org/10.21985/N2DH72
 print: http://nupress.northwestern.edu/content/critical-bibliography-published-writings-romain-rolland
-license: "Creative Commons Public Domain Mark US"
+license: "No Copyright - United States"
 doi: 10.21985/N2DH72
 ---
 Late nineteenth-and early twentieth-century French writer Romain Rolland remains best known for his epic coming-of-age tale, _Jean Christoph_. In _A Critical Bibliography of the Published Writings of Romain Rolland_ William Thomas Starr Starr painstakingly collects the information on all writings by and about this prolific author through 1949. Organized into two parts, the bibliography lists the writings of Rolland first, and a devotes second section to studies, comments, reviews, attacks, and homages.

@@ -13,7 +13,7 @@ cover: fair-cover.png
 thumbnail: fair-thumbnail.png
 ebook: https://doi.org/10.21985/N23717
 print: http://nupress.northwestern.edu/content/fair-rosamond
-license: "Creative Commons Public Domain Mark US"
+license: "No Copyright - United States"
 doi: "10.21985/N23717"
 ---
 In _Fair Rosamond_, Virgil B. Heltzel traces the character of Rosamond Clifford, known as Fair Rosamond - which has its origins as a theme in medieval literature -through its use in poetry and plays and novels, from the Renaissance through the early twentieth century. Heltzel's book retains its importance today for scholars tracing certain thematic structures through all periods of literature.
